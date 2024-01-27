@@ -1,0 +1,26 @@
+.text-center{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .bg-red{
+    border: 1px;
+    background: rgb(0, 0, 0);
+
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
+  
